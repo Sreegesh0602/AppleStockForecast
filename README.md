@@ -125,6 +125,13 @@ The dataset is preprocessed to handle missing values, normalize features, and cr
 
 ---
 
+## **Model Evaluation**
+- LSTM Model Evaluation Results:
+- RMSE: 4.0859
+- MAPE: 3.95%
+- R-Squared: 0.9937
+
+
 ## **Future Work**
 - Implement **ensemble models** for better performance.
 - Incorporate **macroeconomic indicators** (e.g., interest rates, GDP).
